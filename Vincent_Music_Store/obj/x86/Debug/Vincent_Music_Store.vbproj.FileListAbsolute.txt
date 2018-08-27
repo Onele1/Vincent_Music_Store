@@ -1,0 +1,150 @@
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.addCustAndEmp.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.addmusic.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.ChangeMusic.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.ChangeOrder.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Customer.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Form1.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Form2.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.MusicApp.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Resources.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.OrderApplication.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.PlaceOrder.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.QueryMusic.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.QueryOrder.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Sales.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.SalesAppMenu.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.SalesReport.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Search.resources
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.vbproj.GenerateResource.Cache
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\bin\Debug\DBProject.mdb
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.exe.config
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.exe
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.pdb
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.xml
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.exe
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.xml
+C:\Users\Noroke\AppData\Local\Temporary Projects\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.pdb
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.exe.config
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.exe
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.xml
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.pdb
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.exe
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.pdb
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.xml
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.addCustAndEmp.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.addmusic.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.ChangeMusic.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.ChangeOrder.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Customer.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Form1.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Form2.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.MusicApp.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Resources.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.OrderApplication.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.PlaceOrder.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.QueryMusic.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.QueryOrder.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Sales.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.SalesAppMenu.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.SalesReport.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Search.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.vbproj.GenerateResource.Cache
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\DBProject.mdb
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.LogIn.resources
+C:\Users\Noroke\Documents\Visual Studio 2010\Projects\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Admin.resources
+E:\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.exe.config
+E:\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.exe
+E:\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.xml
+E:\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.pdb
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.exe.config
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.exe
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.xml
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.pdb
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\DBProject.mdb
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.exe
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.pdb
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.xml
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.addCustAndEmp.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.addmusic.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Admin.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.ChangeMusic.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.ChangeOrder.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Customer.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Form1.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Form2.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.LogIn.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.MusicApp.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Resources.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.OrderApplication.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.PlaceOrder.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.QueryMusic.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.QueryOrder.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Sales.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.SalesAppMenu.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.SalesReport.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Search.resources
+C:\Users\Onele\Desktop\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.vbproj.GenerateResource.Cache
+G:\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.exe.config
+G:\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.exe
+G:\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.xml
+G:\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.pdb
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.exe.config
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.exe
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.xml
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.pdb
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\DBProject.mdb
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.exe
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.pdb
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.xml
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.addCustAndEmp.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.addmusic.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Admin.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.ChangeMusic.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.ChangeOrder.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Customer.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Form1.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Form2.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.LogIn.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.MusicApp.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Resources.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.OrderApplication.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.PlaceOrder.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.QueryMusic.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.QueryOrder.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Sales.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.SalesAppMenu.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.SalesReport.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Search.resources
+C:\Users\Noroke\Desktop\ProjectVincent\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.vbproj.GenerateResource.Cache
+C:\Users\Noroke\Desktop\Final DB Project\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.exe.config
+C:\Users\Noroke\Desktop\Final DB Project\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.exe
+C:\Users\Noroke\Desktop\Final DB Project\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.xml
+C:\Users\Noroke\Desktop\Final DB Project\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.pdb
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.exe.config
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.exe
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.xml
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.pdb
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\DBProject.mdb
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.exe
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.pdb
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\bin\Debug\Vincent_Music_Store.xml
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.addCustAndEmp.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.addmusic.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Admin.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.ChangeMusic.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.ChangeOrder.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Customer.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Form1.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Form2.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.LogIn.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.MusicApp.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Resources.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.OrderApplication.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.PlaceOrder.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.QueryMusic.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.QueryOrder.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Sales.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.SalesAppMenu.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.SalesReport.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.Search.resources
+C:\Users\Onele\Desktop\WSU PROJECTS\Vincent_Music_Store\Vincent_Music_Store\obj\x86\Debug\Vincent_Music_Store.vbproj.GenerateResource.Cache

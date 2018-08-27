@@ -1,0 +1,252 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Vincent_Music_Store
+</name>
+</assembly>
+<members>
+<member name="T:Vincent_Music_Store.DBProjectDataSet.CityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.HandlesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.HasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.IncludesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.LocationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.Music_StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.PersonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.Postal_CodeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.Purchase_DetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.ShipmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.SurburbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.VendorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.CityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.HandlesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.HasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.IncludesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.LocationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.Music_StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.PersonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.Postal_CodeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.Purchase_DetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.ShipmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.SurburbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.VendorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.CityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.HandlesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.HasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.IncludesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.LocationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.Music_StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.PersonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.Postal_CodeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.Purchase_DetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.ShipmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.SurburbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet.VendorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSetTableAdapters.CityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSetTableAdapters.HandlesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSetTableAdapters.HasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSetTableAdapters.IncludesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSetTableAdapters.LocationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSetTableAdapters.Music_StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSetTableAdapters.PersonTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSetTableAdapters.Postal_CodeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSetTableAdapters.Purchase_DetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSetTableAdapters.ShipmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSetTableAdapters.SurburbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSetTableAdapters.VendorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Vincent_Music_Store.DBProjectDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Vincent_Music_Store.DBProjectDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Vincent_Music_Store.DBProjectDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Vincent_Music_Store.DBProjectDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Vincent_Music_Store.DBProjectDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Vincent_Music_Store.DBProjectDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Vincent_Music_Store.DBProjectDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Vincent_Music_Store.DBProjectDataSetTableAdapters.TableAdapterManager.UpdateAll(Vincent_Music_Store.DBProjectDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Vincent_Music_Store.DBProjectDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Vincent_Music_Store.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Vincent_Music_Store.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Vincent_Music_Store.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
